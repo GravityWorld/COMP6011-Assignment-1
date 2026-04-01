@@ -1,0 +1,3 @@
+In TwinLiteNetPlus:
+python demo.py --config 'nano' --weight 'models/nano.pth' --source 'test/'
+
